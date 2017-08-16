@@ -37,7 +37,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
     protected void playBotton() {
         String input = inputValue.getText().toString();
-        Intent intent = new Intent(getBaseContext(), CountdownActivity.class);
+        Intent intent = new Intent(MainActivity.this, CountdownActivity.class);
         intent.putExtra("input", input);
         startActivity(intent);
 
