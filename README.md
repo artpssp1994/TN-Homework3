@@ -1,5 +1,6 @@
 # TN-Homework3
 
-![alt text-1](https://github.com/artpssp1994/TN-Homework3/blob/master/Screenshot_1502855911.png)
+<img src="https://github.com/artpssp1994/TN-Homework3/blob/master/Screenshot_1502855911.png" width="150" >
 
-![alt text-2](https://github.com/artpssp1994/TN-Homework3/blob/master/Screenshot_1502855942.png)
+<img src="https://github.com/artpssp1994/TN-Homework3/blob/master/Screenshot_1502855942.png" width="150">
+
